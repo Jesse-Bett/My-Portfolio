@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hello Everyone, I'm <span className="purple">Jesse Bett </span>
             from <span className="purple"> Nairobi, Kenya.</span>
-            <br />I am a passionate fullstack web developer.
+            <br />I'm a passionate fullstack web developer.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do include:
           </p>
           <ul>
             <li className="about-activity">
