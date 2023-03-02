@@ -47,4 +47,5 @@ function App() {
   );
 }
 
+console.log("I am open to new employment opportunities")
 export default App;
