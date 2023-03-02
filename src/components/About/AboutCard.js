@@ -10,22 +10,12 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hello Everyone, I'm <span className="purple">Jesse Bett </span>
             from <span className="purple"> Nairobi, Kenya.</span>
-            <br />I'm a passionate fullstack web developer.
+            <br />I'm a fullstack web developer proficient in object oriented programming, data structures and algorithms.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do include:
+            I am passionate about using software to solve real world problems and I am always looking for opportunities to learn and grow.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games, mainly Mortal Kombat and Fifa
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Hit the gym
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+          
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Dare to Dream, Dare to do !"{" "}
