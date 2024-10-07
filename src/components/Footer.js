@@ -20,7 +20,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Jesse-Bett"
+                href="https://github.com/jessechumo"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -30,7 +30,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/BettJesse"
+                href="https://twitter.com/JesseChumo"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -40,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/jesse-bett-74b3411a7/"
+                href="https://www.linkedin.com/in/jesse-chumo-74b3411a7/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
