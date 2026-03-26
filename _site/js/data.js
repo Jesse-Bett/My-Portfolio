@@ -8,9 +8,10 @@ const portfolioData = {
       position: "Systems Administrator",
       location: "Arlington, TX, USA",
       description: [
-        "Enable seamless access to information for 1,000+ users by developing and maintaining the School of Engineering intranet using HTML5, CSS, PHP, and MVC patterns for scalable architecture.",
-        "Reduce student blockers by 30% and improve lab completion rates by facilitating security lab practicals and providing on-demand support.",
-        "Achieve 99.9% uptime for critical university systems through continuous monitoring, early anomaly detection, and rapid remediation of infrastructure issues.",
+        "Managed VirtualBox lab environments on RHEL hosts supporting Windows, Fedora, and Kali Linux VMs and their snapshots for hands-on cybersecurity instruction, enabling reliable and repeatable student security experiments.",
+        "Owned and maintained Linux-based lab infrastructure and two department RHEL production servers supporting 1,000+ users, diagnosing virtualization and software issues to ensure stable service delivery for students, faculty, and researchers.",
+        "Designed and deployed an AI experimentation lab using RAG, LangChain, and LangGraph, enabling students and researchers to run LLM experiments on applied AI workflows.",
+        "Built Python tooling to automate software provisioning and installation workflows across lab machines, eliminating repetitive manual setup and improving consistency across environments.",
       ],
     },
     {
@@ -32,10 +33,11 @@ const portfolioData = {
       position: "Full Stack Developer",
       location: "Remote",
       description: [
-        "Decreased deployment time by 50% and minimized production errors by building a CI/CD pipeline that connected GitHub Actions to AWS Elastic Beanstalk with automated scripts for Agile releases.",
-        "Assisted in implementing AWS Cognito authentication to deliver secure user management and streamline OAuth integrations.",
-        "Enabled efficient backend integration by developing a GraphQL API that exchanged JSON payloads with React components.",
-        "Created Prisma database migrations with rollback safeguards, improving schema management and reducing deployment risks.",
+        "Built and maintained full-stack features across patient, driver, and admin workflows using NestJS, TypeScript, React, GraphQL, and PostgreSQL, supporting core business operations in a production healthcare platform.",
+        "Developed a React Native/Expo mobile app for a ride-hailing service, translating UI designs into functional screens and integrating REST and GraphQL APIs for real-time data flow.",
+        "Engineered backend infrastructure including NestJS services, GraphQL resolvers, Prisma migrations on a Dockerized PostgreSQL database, AWS Cognito for authentication, S3 for document and media storage, and payment platform integrations.",
+        "Built CI/CD pipelines with GitHub Actions and AWS Elastic Beanstalk, reducing deployment time by 50% and improving release reliability.",
+        "Contributed to Agile delivery through sprint planning, code reviews, and merge request approvals, supporting consistent and reliable feature releases.",
       ],
     },
     {
@@ -45,9 +47,8 @@ const portfolioData = {
       position: "Front End Web Developer",
       location: "Remote",
       description: [
-        "Achieved 91% code coverage and reduced production issues by 60% on an e-commerce platform by implementing automated testing strategies with Angular, JavaScript, HTML5, AJAX, and T-SQL.",
-        "Improved responsiveness and reduced code redundancy by 25% through custom Angular directives and jQuery components built with MVC patterns and XML-based configuration.",
-        "Developed reusable TypeScript-based Angular components that enforced a modular architecture and improved maintainability across the application.",
+        "Reduced production issues by 60% by implementing automated testing and improving code quality in an Angular-based e-commerce platform.",
+        "Developed modular React and Angular components for core e-commerce workflows, consuming REST APIs for data rendering and collaborating with backend engineers to ensure reliable end-to-end feature delivery.",
       ],
     },
     {
@@ -57,9 +58,8 @@ const portfolioData = {
       position: "Software Development Intern",
       location: "Nairobi Area, Kenya",
       description: [
-        "Improved customer engagement by 30% by engineering backend services with JavaScript and NestJS, leveraging Web APIs for asynchronous notifications alongside Angular, HTML5, and jQuery clients.",
-        "Provided actionable insights for leadership by designing and executing optimized SQL queries that generated detailed sales reports for the admin dashboard.",
-        "Maintained 99.9% system uptime by proactively identifying and resolving downtime issues with cross-functional Agile teams to ensure robust platform performance.",
+        "Built REST API endpoints for a fintech payment platform using NestJS, supporting transaction processing workflows in a production environment.",
+        "Designed and optimized SQL queries to surface transaction data for admin reporting, improving operational visibility into payment workflows.",
       ],
     },
   ],
